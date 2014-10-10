@@ -1,0 +1,4 @@
+http://jce.iaik.tugraz.at/sic/Products/Core-Crypto-Toolkits/ECCelerate/Supported_EC_Domain_Parameters 
+http://nicj.net/files/performance_comparison_of_elliptic_curve_and_rsa_digital_signatures.pdf 
+http://edge.cs.drexel.edu/regli/Classes/CS680/Papers/EC_prezentacio.pdf 
+http://www.cryptopp.com/benchmarks.html 

@@ -1,0 +1,1 @@
+I may make some mistakes in puting txt file in each step, so I put all the fils generated in android in file folder

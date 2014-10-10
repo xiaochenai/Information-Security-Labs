@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="C:/Users/123/Documents/My jar/base64coder.jar"/>
+	<classpathentry kind="lib" path="C:/Users/123/Documents/My jar/sc-light-jdk15on-1.47.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/123/Documents/My jar/scprov-jdk15on-1.47.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/123/Documents/My jar/scpkix-jdk15on-1.47.0.2.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

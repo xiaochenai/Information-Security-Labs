@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1" android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/geneKeyPair"
+            android:layout_width="106dp"
+            android:layout_height="wrap_content"
+            android:text="geneKeyPair" >
+
+        </Button>
+
+        <Button
+            android:id="@+id/publicKey"
+            android:layout_width="106dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.57"
+            android:text="publicKey" />
+
+        <Button
+            android:id="@+id/privateKey"
+            android:layout_width="106dp"
+            android:layout_height="wrap_content"
+            android:text="privateKey" >
+        </Button>
+    </LinearLayout>
+    
+     <LinearLayout
+         android:id="@+id/linearLayout2"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content" >
+
+         <Button
+             android:id="@+id/creatSha256Hash"
+             android:layout_width="150dp"
+             android:layout_height="50dp"
+             android:text="creatSha256Hash" >
+         </Button>
+
+         <Button
+             android:id="@+id/creatSigna"
+             android:layout_width="150dp"
+             android:layout_height="50dp"
+             android:text="creatSigna" />
+
+     </LinearLayout>
+    
+     <LinearLayout android:id="@+id/linearLayout2" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button 
+        android:layout_width="150dp" 
+        android:layout_height="wrap_content" 
+        android:id="@+id/verifysign" 
+        android:text="verifysign"></Button>
+ 		<Button 
+        android:layout_width="150dp" 
+        android:layout_height="wrap_content" 
+        android:id="@+id/geneRandNum" 
+        android:text="geneRandNum"></Button>    
+    </LinearLayout>
+    <LinearLayout android:id="@+id/linearLayout2" android:layout_width="match_parent" android:layout_height="wrap_content">
+		<Button 
+        android:layout_width="150dp" 
+        android:layout_height="wrap_content" 
+        android:id="@+id/encrypRand" 
+        android:text="encrypRand"></Button>
+		<Button 
+        android:layout_width="150dp" 
+        android:layout_height="wrap_content" 
+        android:id="@+id/decrypRand" 
+        android:text="decrypRand"></Button>
+      
+    </LinearLayout>
+
+      <LinearLayout
+          android:id="@+id/linearLayout2"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" >
+
+          <Button
+              android:id="@+id/geneKeyPair_ECDSA"
+              android:layout_width="106dp"
+              android:layout_height="wrap_content"
+              android:text="geneKeyPair" >
+          </Button>
+
+          <Button
+              android:id="@+id/publicKey_ECDSA"
+              android:layout_width="106dp"
+              android:layout_height="match_parent"
+              android:layout_weight="0.57"
+              android:text="publicKey" >
+          </Button>
+
+          <Button
+              android:id="@+id/privateKey_ECDSA"
+              android:layout_width="106dp"
+              android:layout_height="wrap_content"
+              android:text="privateKey" >
+          </Button>
+      </LinearLayout>
+
+      <LinearLayout android:id="@+id/linearLayout2" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button 
+        android:layout_width="150dp" 
+        android:layout_height="wrap_content" 
+        android:id="@+id/creatSigna_ECDSA" 
+        android:text="creatSigna_ECDSA"></Button>
+        <Button 
+        android:layout_width="150dp" 
+        android:layout_height="wrap_content" 
+        android:id="@+id/verifysign_ECDSA" 
+        android:text="verifysign_ECDSA"></Button>
+          </LinearLayout>>
+       
+   <TextView 
+    android:text="" 
+    android:layout_height="wrap_content" 
+    android:layout_width="fill_parent"
+    android:id="@+id/plaintext">
+    </TextView>    
+</LinearLayout>

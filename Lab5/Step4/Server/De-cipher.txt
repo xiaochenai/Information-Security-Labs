@@ -1,0 +1,7 @@
+Phishing Explained
+Phishing scams are typically fraudulent e-mail messages appearing to come from legitimate sources like your bank, your Internet Service Provider, eBay, or PayPal, for example. These messages usually direct you to a fake web site and ask you for private information (e.g., password, credit card, or other account updates). The perpetrators then use this private information to commit identity theft.
+Warning Signs
+There are often signs that can tip you off that a message may not be what it appears. The hints below can help you avoid "taking the bait."
+Urgent Language - Phishing attempts often use language meant to alarm. They contain threats, urging you to take immediate action.  “You MUST click on the link below or your account will be canceled.”
+The Greeting - If the message doesn't specifically address you by name, be wary.   Fake messages use general greetings like “Dear eBay Member” or “Attention Citibank Customer” or no greeting at all.
+URLs Don’t Match - Place your mouse over the link in the e-mail message.  If the URL displayed in the window of your browser is not exactly the same as the text of the link provided in the message, run.  It’s probably a fake.   Sometimes the URLs do match and the URL is still a fake.
